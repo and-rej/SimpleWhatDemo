@@ -3,7 +3,7 @@ name: CI to Docker Hub - AZ
 on:
   push:
     tags:
-      - "*"
+      - v*.*.*
   
 jobs:
 
