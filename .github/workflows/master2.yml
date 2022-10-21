@@ -1,4 +1,4 @@
-name: CI to Docker Hub - AZ
+name: CI to Docker Hub - AZ 2
 
 on:
   push:
